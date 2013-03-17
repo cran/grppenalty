@@ -1,0 +1,10 @@
+d216cbd516962887a96c583c93644085 *DESCRIPTION
+5e531aa19cfa1bd08fbae2abc40beb36 *NAMESPACE
+4c9bf10c26e79ae185bc0218ae4835ae *R/grppenalty.R
+4b512b08b776306b167c5163edd8d099 *man/cv.grppenalty.Rd
+a41ae0e6fc0fe3503f6bfc5ca608fe92 *man/cv.plot.Rd
+09b69a55ff1f827ab4fe0e0a63f96216 *man/grppenalty.Rd
+dc2a3e0204ccfaba918e876cca815a4d *man/path.plot.Rd
+32436de9c5b750f6fa5a326446522982 *src/Makevars
+32436de9c5b750f6fa5a326446522982 *src/Makevars.win
+fe583ce8edd1c629fde8340fcf0bf084 *src/grppenalty.f

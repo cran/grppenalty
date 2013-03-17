@@ -1,0 +1,3 @@
+useDynLib("grppenalty", .registration=TRUE)
+export(grppenalty, cv.grppenalty, cv.plot, path.plot)
+
